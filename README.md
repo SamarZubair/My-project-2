@@ -25,8 +25,7 @@ Creative and detail-oriented **Graphic Designer** with a focus on visual storyte
 
 ## 💼 Experience
 
-**Self Employed Web - Freelance Graphic Designer**  
-📅 January 2026 – January 2028  
+**Self Employed Web - Freelance Graphic Designer**   
 📍 Azad kashmir,Pakistan  
 
 - Developed creative designs for print materials including brochures, banners, and signs.  
