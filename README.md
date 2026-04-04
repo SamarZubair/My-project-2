@@ -1,6 +1,42 @@
+# Samar Zubair
 
-remote_theme: pages-themes/time-machine@v0.2.0
-plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
-  title: [Samar Zubair]
-description: [Results-driven Graphic Designer and founder of SamDesigns, specializing in brand identity and social media marketing. Expert in creating high-impact business posters, custom logos, and unique 3D character renders. Focused on delivering high-definition (4K) visual solutions and professional branding packages that help local businesses enhance their digital presence."]
+**Freelance Graphic Designer & Brand Identity Specialist**
+
+📧 hf0011222@gmail.com  
+📞 +92 3130870219  
+📍 Azad kashmir,Pakistan  
+
+---
+
+## 🧾 Professional Summary
+
+Creative and detail-oriented **Graphic Designer** with a focus on visual storytelling and brand identity. Specializing in creating high-impact social media content, business posters, and unique 3D character renders. Proven track record of delivering professional designs that help local businesses, like restaurants and startups, enhance their digital presence. Expert in image manipulation, high-definition upscaling, and modern aesthetic themes.
+
+---
+
+## 🛠️ Skills
+
+- Graphic Design  
+- Social Media Design  
+- Logo Design  
+- Brand Identity Creation  
+
+---
+
+## 💼 Experience
+
+**Self Employed Web - Freelance Graphic Designer**  
+📅 January 2026 – January 2028  
+📍 Azad kashmir,Pakistan  
+
+- Developed creative designs for print materials including brochures, banners, and signs.  
+- Conceptualized creative designs for marketing and branding.  
+- Created engaging social media graphics to increase online visibility.  
+- Designed digital image files for both digital and traditional printing methods.  
+
+---
+
+## 📌 Additional Info
+
+- Passionate about modern design trends and digital branding  
+- Focused on helping small businesses grow through visual content  
