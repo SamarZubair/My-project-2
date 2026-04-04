@@ -21,7 +21,7 @@ Creative and detail-oriented **Graphic Designer** with a focus on visual storyte
 - Logo Design  
 - Brand Identity Creation  
 
----
+---![image alt](https://github.com/SamarZubair/My-project-2/blob/cbbf8c76a9777dd2dcb7ba479e0514cd781e029b/Beef%20burger_20260401_170310_0000.png)
 
 ## 💼 Experience
 
