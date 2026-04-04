@@ -21,7 +21,7 @@ Creative and detail-oriented **Graphic Designer** with a focus on visual storyte
 - Logo Design  
 - Brand Identity Creation  
 
----Beef burger_20260401_170310_0000.png
+---
 
 ## 💼 Experience
 
