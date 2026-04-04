@@ -21,7 +21,7 @@ Creative and detail-oriented **Graphic Designer** with a focus on visual storyte
 - Logo Design  
 - Brand Identity Creation  
 
----![image alt](https://github.com/SamarZubair/My-project-2/blob/cbbf8c76a9777dd2dcb7ba479e0514cd781e029b/Beef%20burger_20260401_170310_0000.png)
+---![image alt](https://github.com/SamarZubair/My-project-2/blob/cbbf8c76a9777dd2dcb7ba479e0514cd781e029b/Beef%20burger_20260401_170310_0000.png)![image alt](https://github.com/SamarZubair/My-project-2/blob/dce416217875c1ebdd81139df9fabdac46e0ef21/Orange%20Modern%20Chicken%20Burger%20Social%20Media_20260403_114333_0000.png)
 
 ## 💼 Experience
 
