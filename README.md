@@ -21,7 +21,7 @@ Creative and detail-oriented **Graphic Designer** with a focus on visual storyte
 - Logo Design  
 - Brand Identity Creation  
 
----![image alt](https://github.com/SamarZubair/My-project-2/blob/c9c15a3ee65f32dd4a0d9e32b73f5ab2d46d2470/Red%20and%20White%20Modern%20Chicken%20Pizza%20Instagram%20Post_20260402_064110_0000.png)
+---![Profile](https://github.com/SamarZubair/My-project-2/blob/c9c15a3ee65f32dd4a0d9e32b73f5ab2d46d2470/Red%20and%20White%20Modern%20Chicken%20Pizza%20Instagram%20Post_20260402_064110_0000.png)
 
 ## 💼 Experience
 
