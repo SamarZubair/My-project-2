@@ -22,7 +22,9 @@ Creative and detail-oriented **Graphic Designer** with a focus on visual storyte
 - Brand Identity Creation  
 
 ---
-![image alt](https://github.com/SamarZubair/My-project-2/blob/da7da8c1a3cf8aa4176f4b456a71977998e67c94/Beef%20burger_20260401_170310_0000.png)
+
+![Profile](https://raw.githubusercontent.com/SamarZubair/My-project-2/main/Red%20and%20White%20Modern%20Chicken%20Pizza%20Instagram%20Post_20260402_064110_0000.png)
+
 ## 💼 Experience
 
 **Self Employed Web - Freelance Graphic Designer**   
